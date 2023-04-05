@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdditionalIntent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InstanceStateExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Intent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Intent/AplikasiIntent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KnowingLifecycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KnowingLifecycle/AplikasiKnowingLifecycle" vcs="Git" />
+  </component>
+</project>

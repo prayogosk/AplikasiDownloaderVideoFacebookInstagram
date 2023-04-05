@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Unduh Facebook Dan Instagram Reels</string>
+    <string name="InstagramButton" translatable="false">Instagram Unduh Reels</string>
+    <string name="FacebookButton" translatable="false">Facebook Unduh Videos</string>
+</resources>
